@@ -1,7 +1,12 @@
 import React from 'react'
 
 const ProfileForm = (props) => {
+
+  
+
 return (
+
+  
 <div>
   <div className="">
     <div className="p-8  mx-auto ">
