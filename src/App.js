@@ -1,6 +1,5 @@
-import Username from "./components/Username";
-import { BrowserRouter as Router } from 'react-router-dom';
-
+import { Router, Routes, Route } from 'react-router-dom';
+import Username from './components/Username';
 
 
 function App() {
@@ -8,8 +7,11 @@ function App() {
 
     <div className="App bg-slate-200">
       <Username />
-    </div>
+       
+        
 
+
+    </div>
   );
 }
 
